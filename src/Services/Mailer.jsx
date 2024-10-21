@@ -1,7 +1,7 @@
 
 const mail=async(data)=>{
    const formData=new FormData();
-   formData.append("access_key","2d7b8f83-4fcb-40f9-bee7-a7c0d3549a81");
+   formData.append("access_key",process.env.REACT_APP_WEB3FORMS_ACCESS_KEY);
    if(data.location==="register"){
          formData.append("form_name","register");
          formData.append("name",data.name);

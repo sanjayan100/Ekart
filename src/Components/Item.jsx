@@ -38,7 +38,7 @@ const Item = ({id, title, price,desc, rating}) => {
         <Link to={`/product/${id}`}> 
         <div className="flex justify-between xsm-mx:text-xs  sm-mx:text-sm md-mx:text-base md:text-lg font-semibold text-gray-700">
             <span >{title}</span>
-            <span ><sup>$</sup>{price}<sup>.00</sup></span>
+            <span ><sup>₹</sup>{price}<sup>.00</sup></span>
         </div></Link>
         <span className="xsm-mx:text-[8px]/[10px] text-xs text-gray-500 font-semibold">{desc}</span>
         <div className="flex" >{

@@ -2,7 +2,7 @@ const items = [{
   id: 2,
   title: "AirPods Max",
   desc: "A perfect balance of high-fidelity audio",
-  price: 559,
+  price: 39999,
   rating: 3,
   category: "Headphone"
 },
@@ -10,7 +10,7 @@ const items = [{
   id: 5,
   title: "Macbook pro 13",
   desc: "256, 8 core GPU, 8 GB",
-  price: 1099,
+  price: 99999,
   rating: 4,
   category: "Laptop"
 },
@@ -18,7 +18,7 @@ const items = [{
   id: 8,
   title: "Ipad Mini",
   desc: "Compact size and 5 colors available",
-  price: 539,
+  price: 41999,
   rating: 5,
   category: "Mobile"
 },
@@ -26,7 +26,7 @@ const items = [{
   id: 9,
   title: "iPhone 13 Pro",
   desc: "Flagship smartphone with advanced features",
-  price: 1099,
+  price: 111999,
   rating: 5,
   category: "Mobile"
 },
@@ -34,7 +34,7 @@ const items = [{
   id: 10,
   title: "Samsung Galaxy S21",
   desc: "High-performance smartphone with excellent camera",
-  price: 999,
+  price: 79999,
   rating: 4,
   category: "Mobile"
 },
@@ -42,7 +42,7 @@ const items = [{
   id: 11,
   title: "Google Pixel 6",
   desc: "Premium Android smartphone with top-notch features",
-  price: 899,
+  price: 59999,
   rating: 4,
   category: "Mobile"
 },
@@ -50,7 +50,7 @@ const items = [{
   id: 12,
   title: "OnePlus 9 Pro",
   desc: "High-performance smartphone with fast charging",
-  price: 799,
+  price: 64999,
   rating: 5,
   category: "Mobile"
 },
@@ -58,7 +58,7 @@ const items = [{
   id: 13,
   title: "Xiaomi Mi 11",
   desc: "Affordable flagship smartphone with powerful processor",
-  price: 699,
+  price: 39999,
   rating: 4,
   category: "Mobile"
 },
@@ -66,7 +66,7 @@ const items = [{
   id: 4,
   title: "Supreme Water Bottle",
   desc: "1 Litre water bottle",
-  price: 19,
+  price: 799,
   rating: 2,
   category: "Fitness"
 },
@@ -74,7 +74,7 @@ const items = [{
   id: 14,
   title: "iPhone 12 Mini",
   desc: "Compact iPhone with powerful features",
-  price: 699,
+  price: 35999,
   rating: 4,
   category: "Mobile"
 },
@@ -82,7 +82,7 @@ const items = [{
   id: 15,
   title: "Samsung Galaxy Note 20",
   desc: "Premium smartphone with S Pen and large display",
-  price: 799,
+  price: 37999,
   rating: 4,
   category: "Mobile"
 },
@@ -90,7 +90,7 @@ const items = [{
   id: 16,
   title: "Google Pixel 5",
   desc: "Mid-range smartphone with excellent camera",
-  price: 699,
+  price: 45999,
   rating: 4,
   category: "Mobile"
 },
@@ -98,7 +98,7 @@ const items = [{
   id: 7,
   title: "Instax mini 9",
   desc: "Selfie mode and selfie mirror, Macro mode",
-  price: 99,
+  price: 7999,
   rating: 4,
   category: "Mobile"
 },
@@ -106,7 +106,7 @@ const items = [{
   id: 17,
   title: "MacBook Pro 16",
   desc: "Powerful laptop with stunning Retina display",
-  price: 2399,
+  price: 189999,
   rating: 5,
   category: "Laptop"
 },
@@ -114,7 +114,7 @@ const items = [{
   id: 19,
   title: "HP Spectre x360",
   desc: "Versatile 2-in-1 laptop with sleek design",
-  price: 1599,
+  price: 129999,
   rating: 5,
   category: "Laptop"
 },
@@ -122,7 +122,7 @@ const items = [{
   id: 18,
   title: "Dell XPS 15",
   desc: "Premium laptop with InfinityEdge display",
-  price: 1899,
+  price: 139999,
   rating: 4,
   category: "Laptop"
 },
@@ -130,7 +130,7 @@ const items = [{
   id: 3,
   title: "Flower Laptop Sleeve",
   desc: "15 in. x 10 in. -Flap top closure",
-  price: 39,
+  price: 2499,
   rating: 3,
   category: "Laptop"
 },
@@ -138,7 +138,7 @@ const items = [{
   id: 1,
   title: "Laptop sleeve MacBook",
   desc: "Organic Cotton, fairtrade certified",
-  price: 59,
+  price: 5499,
   rating: 4,
   category: "Laptop"
 },
@@ -146,7 +146,7 @@ const items = [{
   id: 20,
   title: "Lenovo ThinkPad X1 Carbon",
   desc: "Business laptop with durable build",
-  price: 1499,
+  price: 119999,
   rating: 4,
   category: "Laptop"
 },
@@ -154,7 +154,7 @@ const items = [{
   id: 21,
   title: "Microsoft Surface Laptop 4",
   desc: "Elegant laptop with excellent battery life",
-  price: 1299,
+  price: 99999,
   rating: 4,
   category: "Laptop"
 },
@@ -162,7 +162,7 @@ const items = [{
   id: 22,
   title: "Asus ZenBook 14",
   desc: "Compact laptop with NanoEdge display",
-  price: 1099,
+  price: 89999,
   rating: 4,
   category: "Laptop"
 },
@@ -170,7 +170,7 @@ const items = [{
   id: 23,
   title: "Acer Swift 5",
   desc: "Ultralight laptop with powerful performance",
-  price: 999,
+  price: 74999,
   rating: 3,
   category: "Laptop"
 },
@@ -178,7 +178,7 @@ const items = [{
   id: 24,
   title: "Razer Blade 15",
   desc: "Gaming laptop with high-refresh rate display",
-  price: 2199,
+  price: 168999,
   rating: 5,
   category: "Laptop"
 },
@@ -186,7 +186,7 @@ const items = [{
   id: 25,
   title: "The Great Gatsby",
   desc: "A classic novel of the Jazz Age, portraying the decadence of the 1920s.",
-  price: 15,
+  price: 1199,
   rating: 5,
   category: "Books"
 },
@@ -194,7 +194,7 @@ const items = [{
   id: 26,
   title: "1984",
   desc: "George Orwell's dystopian novel about a totalitarian regime.",
-  price: 12,
+  price: 1249,
   rating: 4,
   category: "Books"
 },
@@ -202,7 +202,7 @@ const items = [{
   id: 27,
   title: "To Kill a Mockingbird",
   desc: "A profound novel about racial injustice in the Deep South.",
-  price: 10,
+  price: 749,
   rating: 5,
   category: "Books"
 },
@@ -210,7 +210,7 @@ const items = [{
   id: 28,
   title: "Pride and Prejudice",
   desc: "Jane Austen's romantic novel that explores manners and matrimonial machinations.",
-  price: 9,
+  price: 699,
   rating: 4,
   category: "Books"
 },
@@ -218,7 +218,7 @@ const items = [{
   id: 29,
   title: "The Catcher in the Rye",
   desc: "A novel about teenage rebellion and angst.",
-  price: 11,
+  price: 799,
   rating: 3,
   category: "Books"
 },
@@ -226,7 +226,7 @@ const items = [{
   id: 30,
   title: "The Hobbit",
   desc: "J.R.R. Tolkien's fantasy novel about the adventures of Bilbo Baggins.",
-  price: 14,
+  price: 849,
   rating: 5,
   category: "Books"
 },
@@ -234,7 +234,7 @@ const items = [{
   id: 31,
   title: "Moby-Dick",
   desc: "Herman Melville's epic tale of obsession and the sea.",
-  price: 18,
+  price: 999,
   rating: 4,
   category: "Books"
 },
@@ -242,7 +242,7 @@ const items = [{
   id: 32,
   title: "War and Peace",
   desc: "Leo Tolstoy's grand narrative of Russian society during the Napoleonic Wars.",
-  price: 20,
+  price: 1599,
   rating: 4,
   category: "Books"
 },
@@ -250,7 +250,7 @@ const items = [{
   id: 33,
   title: "Sony WH-1000XM4",
   desc: "Industry leading noise cancellation with high resolution audio.",
-  price: 349,
+  price: 25999,
   rating: 5,
   category: "Headphone"
 },
@@ -258,7 +258,7 @@ const items = [{
   id: 34,
   title: "Bose QuietComfort 35 II",
   desc: "Wireless Bluetooth headphones with world-class noise cancellation.",
-  price: 299,
+  price: 24499,
   rating: 4,
   category: "Headphone"
 },
@@ -266,7 +266,7 @@ const items = [{
   id: 35,
   title: "Sennheiser HD 450BT",
   desc: "Wireless over-ear headphones with active noise cancellation.",
-  price: 199,
+  price: 15999,
   rating: 4,
   category: "Headphone"
 },
@@ -274,7 +274,7 @@ const items = [{
   id: 36,
   title: "Apple AirPods Pro",
   desc: "Active noise cancellation for immersive sound.",
-  price: 249,
+  price: 17499,
   rating: 5,
   category: "Headphone"
 },
@@ -282,7 +282,7 @@ const items = [{
   id: 37,
   title: "Beats Solo Pro",
   desc: "Wireless noise cancelling on-ear headphones.",
-  price: 299,
+  price: 22499,
   rating: 4,
   category: "Headphone"
 },
@@ -290,7 +290,7 @@ const items = [{
   id: 38,
   title: "Jabra Elite 85h",
   desc: "Smart active noise cancelling headphones.",
-  price: 249,
+  price: 19499,
   rating: 4,
   category: "Headphone"
 },
@@ -298,7 +298,7 @@ const items = [{
   id: 39,
   title: "Bowers & Wilkins PX7",
   desc: "Over-ear noise cancelling wireless headphones.",
-  price: 399,
+  price: 30449,
   rating: 5,
   category: "Headphone"
 },
@@ -306,7 +306,7 @@ const items = [{
   id: 6,
   title: "HomePod mini",
   desc: "5 Colors Available",
-  price: 239,
+  price: 18499,
   rating: 5,
   category: "Headphone"
 },
@@ -314,7 +314,7 @@ const items = [{
   id: 40,
   title: "AKG N700NC M2",
   desc: "Wireless over-ear noise cancelling headphones.",
-  price: 299,
+  price: 23999,
   rating: 4,
   category: "Headphone"
 }];

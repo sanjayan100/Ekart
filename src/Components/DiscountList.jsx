@@ -2,10 +2,10 @@ import DiscountCard from "./DiscountCard";
 
 const DiscountList=()=>{
     const card=[
-        {price:100, desc:"Furniture",pic:"Sofa"},
-        {price:29, desc:"Books", pic:"bookCard"},
-        {price:67, desc:"Clothing", pic:"Shirts"},
-        {price:59, desc:"Bags", pic:"bag"}
+        {price:7000, desc:"Furniture",pic:"Sofa"},
+        {price:1500, desc:"Books", pic:"bookCard"},
+        {price:4000, desc:"Clothing", pic:"Shirts"},
+        {price:3000, desc:"Bags", pic:"bag"}
     ]
     return <div className="sm:p-5 w-full">
     <div className=" sm-mx:pl-2 text-xl md:text-2xl lg:text-3xl mb-5 font-semibold">Get Up to 70% off</div>
